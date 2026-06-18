@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-- 🔭 Currently working on **[Read Recall](https://github.com/deepakvaishnav-dev/read-recall)**  <br>- 🌱 Learning **Advanced React, Angular & Vue**<br>- 👯 Open to collaborating on **Frontend & MERN projects**<br>- 🤝 Looking for **Frontend / React developer opportunities**<br>- 📫 Reach me at **anikettomar573@gmail.com**<br>
+- 🌱 Learning **Advanced React, Angular & Vue**<br>- 👯 Open to collaborating on **Frontend & MERN projects**<br>- 🤝 Looking for **Frontend / React developer opportunities**<br>- 📫 Reach me at **er.anikettomar@gmail.com**<br>
 
 
 ## 🌐 Socials:
